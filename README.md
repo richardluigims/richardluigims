@@ -5,6 +5,7 @@
 
 
 ### About me:
+Trying to get my first job in IT area! =D
 Programming languages that I know: Php, Python and C.
 
 
