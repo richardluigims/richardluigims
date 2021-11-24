@@ -5,7 +5,7 @@
 
 
 ### About me:
-Programming skills include: Php, Python and C.
+Programming languages that I know: Php, Python and C.
 
 
 <!---
