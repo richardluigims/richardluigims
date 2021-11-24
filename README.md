@@ -2,7 +2,9 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/richardluigi)](https://github.com/richardluigi)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:richardluigims@gmail)](mailto:richardluigims@gmail.com)
 
-### About me
+### About me:
+
+
 
 <!---
 richardluigi/richardluigi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
