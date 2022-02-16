@@ -6,8 +6,8 @@
 
 
 ### About me:
-Looking for my first job in IT area! =D <br />
-Programming languages that I'm currently learning: C#, Php, Python and C.
+Looking for my first job at the IT area! =D <br />
+Interested in C#, Php, Python and C.
 
 
 <!---
