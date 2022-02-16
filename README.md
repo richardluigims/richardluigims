@@ -6,7 +6,7 @@
 
 
 ### About me:
-Looking for my first job at the IT area! =D <br />
+Looking for jobs in IT area! =D <br />
 Interested in C#, Php, Python and C.
 
 
