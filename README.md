@@ -8,7 +8,7 @@
 
 ### About me:
 Looking for jobs in IT area! =D <br />
-Interested in C#, Php, Python and C.
+Interested in Java, C#, Php, Python and C.
 
 
 <!---
