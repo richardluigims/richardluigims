@@ -10,6 +10,7 @@
 Looking for jobs in IT area! =D <br />
 Interested in Python, Java, C#, Php and C.
 
+[![richardluigims](https://github-readme-stats.vercel.app/api/top-langs/?username=richardluigims&hide=html&layout=compact=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 richardluigi/richardluigi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
