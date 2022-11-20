@@ -7,7 +7,7 @@
 
 
 ### About me:
-Looking for jobs in IT area! =D <br />
+Looking for jobs in IT area! <br />
 Interested in Python, Java, C#, Sql and Php. 
 
 [![richardluigims](https://github-readme-stats.vercel.app/api/top-langs/?username=richardluigims&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
