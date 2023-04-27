@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/richardluigi_ms)](https://instagra.com/richardluigi_ms)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:richardluigims@gmail)](mailto:richardluigims@gmail.com)
 
-
+[![richardluigims](https://github-readme-stats.vercel.app/api/top-langs/?username=richardluigims&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About me:
 Looking for jobs in IT area! <br />
