@@ -4,8 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:richardluigims@gmail)](mailto:richardluigims@gmail.com)
 
 ### About me:
-Looking for jobs in IT area! <br />
-Interested in Python, Java, C#, Sql and Php. 
+Interested in Angular, C++, Python and Java.
 
 [![richardluigims](https://github-readme-stats.vercel.app/api/top-langs/?username=richardluigims&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
