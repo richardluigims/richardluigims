@@ -6,8 +6,7 @@
 ### About me:
 Interested in Angular, C++, Python and Java.
 
-[![richardluigims](https://github-readme-stats.vercel.app/api/top-langs/?username=richardluigims&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-[![richardluigims](https://github-readme-stats.vercel.app/api?username=richardluigims)](https://github.com/richardluigims/github-readme-stats)
+[![richardluigims](https://github-readme-stats.vercel.app/api/top-langs/?username=richardluigims&hide=html&layout=compact&theme=default)](https://github.com/richardluigims/github-readme-stats)
 
 <!---
 richardluigi/richardluigi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
